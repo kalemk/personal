@@ -1,5 +1,5 @@
 header {
-    background-color: #333;
+    background-color: #611010;
     color: #fff;
     padding: 10px 0;
 }
@@ -32,6 +32,27 @@ img {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #333;
+    background-color: #611010;
     color: #fff;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.little-text{
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace; 
+    color: darkgrey;
+}
+
+a:link {
+    color: rgb(120, 138, 22);
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+.reflection{
+    line-height: 150%;
+    font-family: Arial, sans-serif;
 }
